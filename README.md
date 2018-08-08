@@ -1,6 +1,5 @@
 # Halloween Defense
  - MiniGame
- [Tools used]
  - C#
  - Unity 3D Engine
 
