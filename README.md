@@ -1,6 +1,7 @@
 # Halloween Defense
-Unity 3D MiniGame
-
+ - MiniGame
+ - Unity 3D Engine
+ - C#
 # Youtube Video
 [![Video Label](https://github.com/johngamecoder/HalloweenDefense/blob/master/HalloweenDefense.PNG)](https://youtu.be/Z79Y9v1v43w)
 Please click the Image above
